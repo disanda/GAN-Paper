@@ -1,4 +1,7 @@
 
+
+# ON CONVERGENCE AND STABILITY OF GANS
+
 https://arxiv.org/pdf/1705.07215.pdf
 
 
