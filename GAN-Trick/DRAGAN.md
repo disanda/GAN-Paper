@@ -14,3 +14,8 @@ https://arxiv.org/pdf/1705.07215.pdf
 3. Use batch normalization in both the generator and the discriminator
 4. Use ReLU activation in the generator for all layers except the output layer, which uses tanh
 5. Use LeakyReLU activation in the discriminator for all layers
+
+
+## 参考
+
+https://blog.csdn.net/z704630835/article/details/89150051
